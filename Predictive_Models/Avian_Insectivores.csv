@@ -1,0 +1,54 @@
+"species_code","scientific_name","common_name","body_mass","fmr"
+"lesnig","Chordeiles acutipennis","Lesser Nighthawk",47.754,146.081406702404
+"comnig","Chordeiles minor","Common Nighthawk",79.3,206.345185202743
+"antnig","Chordeiles gundlachii","Antillean Nighthawk",50,150.725895231471
+"compau","Nyctidromus albicollis","Common Pauraque",56.12830189,163.073042929734
+"compoo","Phalaenoptilus nuttallii","Common Poorwill",48.12,146.842931304896
+"chwwid","Antrostomus carolinensis","Chuck-will's-widow",109,256.257593955428
+"whip-p1","Antrostomus vociferus","Eastern Whip-poor-will",53.4,157.632184850166
+"blkswi","Cypseloides niger","Black Swift",41.36865672,132.47762556423
+"chiswi","Chaetura pelagica","Chimney Swift",23.6,90.3945762222725
+"vauswi","Chaetura vauxi","Vaux's Swift",17.1,72.5871341682459
+"whtswi","Aeronautes saxatalis","White-throated Swift",32.1,111.460048099981
+"nrwswa","Stelgidopteryx serripennis","Northern Rough-winged Swallow",15.85471698,68.9441201225145
+"purmar","Progne subis","Purple Martin",53.8144385,158.464283338389
+"treswa","Tachycineta bicolor","Tree Swallow",21.2,84.0279987608172
+"vigswa","Tachycineta thalassina","Violet-green Swallow",14.15806452,63.8297210109178
+"banswa","Riparia riparia","Bank Swallow",13.27334711,61.0856200720473
+"barswa","Hirundo rustica","Barn Swallow",17.28298122,73.1151887010668
+"cliswa","Petrochelidon pyrrhonota","Cliff Swallow",21.6,85.1044567090745
+"cavswa","Petrochelidon fulva","Cave Swallow",24.12751072,91.7656876415651
+"nobtyr","Camptostoma imberbe","Northern Beardless-Tyrannulet",7.4,41.0332673839677
+"olsfly","Contopus cooperi","Olive-sided Flycatcher",32.1,111.460048099981
+"grepew","Contopus pertinax","Greater Pewee",27.2,99.5705079658268
+"wewpew","Contopus sordidulus","Western Wood-Pewee",13.1,60.5412036888868
+"eawpew","Contopus virens","Eastern Wood-Pewee",13.9,63.0350901157389
+"yebfly","Empidonax flaviventris","Yellow-bellied Flycatcher",11.8,56.3820608625225
+"acafly","Empidonax virescens","Acadian Flycatcher",12.6,58.9578503332627
+"aldfly","Empidonax alnorum","Alder Flycatcher",12.7,59.2761015034143
+"wilfly","Empidonax traillii","Willow Flycatcher",13.375,61.4038172581064
+"leafly","Empidonax minimus","Least Flycatcher",10,50.3720121068524
+"hamfly","Empidonax hammondii","Hammond's Flycatcher",10.50222222,52.0812979009224
+"gryfly","Empidonax wrightii","Gray Flycatcher",12.3,57.9982219964634
+"dusfly","Empidonax oberholseri","Dusky Flycatcher",10.4,51.7355419835048
+"pasfly","Empidonax difficilis","Pacific-slope Flycatcher",10.7,52.7472292601701
+"corfly","Empidonax occidentalis","Cordilleran Flycatcher",11.6,55.7295055320018
+"bubfly","Empidonax fulvifrons","Buff-breasted Flycatcher",7.9,42.9015860607914
+"blkpho","Sayornis nigricans","Black Phoebe",18.37155172,76.2206443634099
+"easpho","Sayornis phoebe","Eastern Phoebe",19.7,79.9320219721956
+"saypho","Sayornis saya","Say's Phoebe",20.9,83.216399220718
+"verfly","Pyrocephalus rubinus","Vermilion Flycatcher",14.4,64.5705010139664
+"ducfly","Myiarchus tuberculifer","Dusky-capped Flycatcher",18.96285714,77.8828380165104
+"astfly","Myiarchus cinerascens","Ash-throated Flycatcher",28.2,102.049044294748
+"grcfly","Myiarchus crinitus","Great Crested Flycatcher",32.1,111.460048099981
+"bncfly","Myiarchus tyrannulus","Brown-crested Flycatcher",42.84126984,135.671163434757
+"grekis","Pitangus sulphuratus","Great Kiskadee",63.78723404,177.915176917254
+"subfly","Myiodynastes luteiventris","Sulphur-bellied Flycatcher",46.9,144.297233559823
+"trokin","Tyrannus melancholicus","Tropical Kingbird",37.4,123.684381074847
+"coukin","Tyrannus couchii","Couch's Kingbird",39,127.263627009169
+"caskin","Tyrannus vociferans","Cassin's Kingbird",45.6,141.5612395949
+"thbkin","Tyrannus crassirostris","Thick-billed Kingbird",55.9,162.621042279391
+"weskin","Tyrannus verticalis","Western Kingbird",39.6,128.593708385448
+"easkin","Tyrannus tyrannus","Eastern Kingbird",38.6201581,126.418218322854
+"grykin","Tyrannus dominicensis","Gray Kingbird",46.5,143.45799607021
+"sctfly","Tyrannus forficatus","Scissor-tailed Flycatcher",39.3,127.929477431139
