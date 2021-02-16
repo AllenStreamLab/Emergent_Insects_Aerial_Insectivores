@@ -2,7 +2,7 @@
 
 Data description
 
-There scripts were used to predict the flux of aquatic insects from streams and rivers of the contiguous United States. This work is currently undergoing peer-review. Predictive models were fit using data from the National Rivers and Streams Assessment and a global synthesis of aquatic community secondary production (Patrick et al 2019). Below are the contents of this directory. Raw datafile provide example input files downloaded from their respected sources. Under the scripts heading are source code (i.e. “.r” extensions) and descriptions of their output files (bullet points). Comments are provided within each script for further details. Please direct any questions to darinkopp@gmial.com. 
+Scripts and files were used to predict the flux of aquatic insects from streams and rivers of the contiguous United States. This work is currently undergoing peer-review. Predictive models were fit using data from the National Rivers and Streams Assessment and a global synthesis of aquatic community secondary production (Patrick et al 2019). Below are the contents of this directory. Raw datafile provide example input files downloaded from their respected sources. The scripts heading are source code (i.e. “.r” extensions) and descriptions of their output files (bullet points). Comments are provided within the scripts for further details. Please direct any questions to darinkopp@gmial.com. 
 
 
 Raw Data files 
