@@ -2,7 +2,8 @@
 
 Data description
 
-Below are the contents of this directory.  All scripts are commented out. Please direct any questions to darinkopp@gmial.com 
+Scripts and files were used to predict the flux of aquatic insects from streams and rivers of the contiguous United States. This work is currently undergoing peer-review. Predictive models were fit using data from the National Rivers and Streams Assessment and a global synthesis of aquatic community secondary production (Patrick et al 2019). Below are the contents of this directory. Raw datafile provide example input files downloaded from their respected sources. The scripts heading are source code (i.e. “.r” extensions) and descriptions of their output files (bullet points). Comments are provided within the scripts for further details. Please direct any questions to darinkopp@gmial.com. 
+
 
 Raw Data files 
 •	NRSA_Stream_Width_Data.csv – raw NRSA wetted width datafile 
@@ -29,8 +30,4 @@ Emergence_at_Bird_Locations.r –estimate total emergence under current and futu
 •	emergence.csv- emergence predictions for insectivorous bird sites
 •	emergence_85.csv – emergence predictions for insectivorous bird sites under RCP 8.5
 •	emergence_26.csv – emergence predictions for insectivorous bird sites under RCP 2.6
-
-Analysis_2.r – not copied yet
-Plotting.r – not copied yet 
-
 
